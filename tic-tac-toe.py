@@ -29,3 +29,4 @@ def check_winner(board):
     if all(cell != " " for row in board for cell in row):
         return "Tie"
 
+    return None
