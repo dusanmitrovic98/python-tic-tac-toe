@@ -51,3 +51,4 @@ def play_game():
 
             if board[row][col] == " ":
                 board[row][col] = current_player
+                break
