@@ -46,3 +46,4 @@ def play_game():
 
         # Get the row and column from the current player
         while True:
+            row = int(input("Enter the row (0-2): "))
