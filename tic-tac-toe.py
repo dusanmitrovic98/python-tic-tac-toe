@@ -56,3 +56,4 @@ def play_game():
                 print("That cell is already occupied. Try again.")
 
         # Check for a winner
+        winner = check_winner(board)
