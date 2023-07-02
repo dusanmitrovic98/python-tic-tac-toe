@@ -59,3 +59,4 @@ def play_game():
         winner = check_winner(board)
 
         # Switch players
+        current_player = "O" if current_player == "X" else "X"
