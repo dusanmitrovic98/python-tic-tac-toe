@@ -54,3 +54,4 @@ def play_game():
                 break
             else:
                 print("That cell is already occupied. Try again.")
+
