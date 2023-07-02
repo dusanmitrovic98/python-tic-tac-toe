@@ -70,3 +70,4 @@ def play_game():
         print(f"Player {winner} wins!")
 
 
+# Start the game
