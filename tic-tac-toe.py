@@ -5,3 +5,4 @@ def print_board(board):
         for cell in row:
             print(" " + cell + " ", end="|")
         print("\n-------------")
+
