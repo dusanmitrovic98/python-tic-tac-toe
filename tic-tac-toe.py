@@ -65,3 +65,4 @@ def play_game():
     print_board(board)
 
     if winner == "Tie":
+        print("It's a tie!")
