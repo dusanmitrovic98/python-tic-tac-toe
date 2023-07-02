@@ -53,3 +53,4 @@ def play_game():
                 board[row][col] = current_player
                 break
             else:
+                print("That cell is already occupied. Try again.")
