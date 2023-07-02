@@ -9,3 +9,4 @@ def print_board(board):
 
 def check_winner(board):
     # Check rows
+    for row in board:
