@@ -44,3 +44,4 @@ def play_game():
         print_board(board)
         print(f"Player {current_player}'s turn.")
 
+        # Get the row and column from the current player
