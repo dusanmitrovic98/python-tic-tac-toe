@@ -34,3 +34,4 @@ def check_winner(board):
 
 def play_game():
     board = [[" ", " ", " "],
+             [" ", " ", " "],
