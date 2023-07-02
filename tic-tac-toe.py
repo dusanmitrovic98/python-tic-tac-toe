@@ -11,3 +11,4 @@ def check_winner(board):
     # Check rows
     for row in board:
         if row[0] == row[1] == row[2] != " ":
+            return row[0]
