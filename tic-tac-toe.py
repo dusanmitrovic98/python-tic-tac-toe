@@ -41,3 +41,4 @@ def play_game():
     winner = None
 
     while not winner:
+        print_board(board)
