@@ -39,3 +39,4 @@ def play_game():
 
     current_player = "X"
     winner = None
+
