@@ -14,3 +14,4 @@ def check_winner(board):
             return row[0]
 
     # Check columns
+    for col in range(3):
