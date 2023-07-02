@@ -3,3 +3,4 @@ def print_board(board):
     for row in board:
         print("|", end="")
         for cell in row:
+            print(" " + cell + " ", end="|")
