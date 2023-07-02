@@ -62,3 +62,4 @@ def play_game():
         current_player = "O" if current_player == "X" else "X"
 
     # Print the final board
+    print_board(board)
