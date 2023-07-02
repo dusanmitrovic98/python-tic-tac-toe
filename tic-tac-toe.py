@@ -32,3 +32,4 @@ def check_winner(board):
     return None
 
 
+def play_game():
