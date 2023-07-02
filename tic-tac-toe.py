@@ -58,3 +58,4 @@ def play_game():
         # Check for a winner
         winner = check_winner(board)
 
+        # Switch players
