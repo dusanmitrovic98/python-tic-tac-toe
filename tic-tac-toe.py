@@ -19,3 +19,4 @@ def check_winner(board):
             return board[0][col]
 
     # Check diagonals
+    if board[0][0] == board[1][1] == board[2][2] != " ":
