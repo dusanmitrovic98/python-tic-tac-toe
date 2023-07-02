@@ -48,3 +48,4 @@ def play_game():
         while True:
             row = int(input("Enter the row (0-2): "))
             col = int(input("Enter the column (0-2): "))
+
