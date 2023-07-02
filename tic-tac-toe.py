@@ -7,3 +7,4 @@ def print_board(board):
         print("\n-------------")
 
 
+def check_winner(board):
