@@ -6,3 +6,4 @@ def print_board(board):
             print(" " + cell + " ", end="|")
         print("\n-------------")
 
+
