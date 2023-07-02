@@ -50,3 +50,4 @@ def play_game():
             col = int(input("Enter the column (0-2): "))
 
             if board[row][col] == " ":
+                board[row][col] = current_player
