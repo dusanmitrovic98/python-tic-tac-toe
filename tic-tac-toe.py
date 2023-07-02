@@ -43,3 +43,4 @@ def play_game():
     while not winner:
         print_board(board)
         print(f"Player {current_player}'s turn.")
+
