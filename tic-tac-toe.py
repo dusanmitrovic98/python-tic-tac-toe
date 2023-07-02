@@ -16,3 +16,4 @@ def check_winner(board):
     # Check columns
     for col in range(3):
         if board[0][col] == board[1][col] == board[2][col] != " ":
+            return board[0][col]
