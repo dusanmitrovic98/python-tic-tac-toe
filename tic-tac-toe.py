@@ -61,3 +61,4 @@ def play_game():
         # Switch players
         current_player = "O" if current_player == "X" else "X"
 
+    # Print the final board
