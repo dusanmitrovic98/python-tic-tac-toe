@@ -45,3 +45,4 @@ def play_game():
         print(f"Player {current_player}'s turn.")
 
         # Get the row and column from the current player
+        while True:
